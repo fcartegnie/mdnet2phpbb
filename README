@@ -1,0 +1,3 @@
+Converts MesDiscussions.net forum to phpBB.
+(Does not use the official API, allows keeping existing user & forum ids from phpBB).
+
